@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+    <people>
+        <person>
+            <name>Mr Book Keeper</name>
+            <ssn>SN10001</ssn>
+        </person>
+        <person>
+            <name>Ms Cashier</name>
+            <ssn>SN10002</ssn>
+        </person>
+    </people>
+</response>

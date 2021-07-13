@@ -1,0 +1,6 @@
+references:
+https://stackoverflow.com/questions/452003/cancel-kill-window-settimeout-before-it-happens
+https://stackoverflow.com/questions/29968499/vertical-rulers-in-visual-studio-code
+https://stackoverflow.com/questions/1789945/how-to-check-whether-a-string-contains-a-substring-in-javascript
+https://stackoverflow.com/questions/154862/convert-javascript-string-to-be-all-lower-case
+https://stackoverflow.com/questions/48261998/why-php-strlen-and-javascript-xxx-length-is-not-equal/48262279
