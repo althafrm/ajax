@@ -1,1 +1,1 @@
-# ajax
+# js-ajax
